@@ -45,6 +45,10 @@ Suggested fields to tweak per level:
 - `density` (higher = more obstacles)
 - `theme` colors
 
+## Play Online
+
+- https://adhrit-geometry-dash.onrender.com
+
 ## Troubleshooting
 - If the game looks blurry, ensure your browser zoom is at 100%.
 - If audio is silent, click inside the canvas or press `Space` once to unlock audio.
